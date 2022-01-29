@@ -156,5 +156,12 @@ Turn right onto The Paseo
 Turn left onto E 9th St
  Destination will be on the right
 
+ ### Some food items
+* SICILIAN
+* LOTZA MEATZA PIZZA
+* WHITE OUT
+* FRESH VEGGIE
+
+
 
 
