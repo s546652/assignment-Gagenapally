@@ -162,6 +162,6 @@ Turn left onto E 9th St
 * WHITE OUT
 * FRESH VEGGIE
 
-Know more about me <AboutMe.md>
+Know more about me<https://github.com/s546652/assignment-Gagenapally/blob/main/AboutMe.md>
 
 
